@@ -1,0 +1,6 @@
+0
+1;ile dni ma rok;456;234;365;233;3
+2;kto zarządza uczelnią?;rektor;prorektor;student;wykładowca;1
+3;2+2=;1;2;3;4;4
+4;50+90=;140;4;345;234;1
+5;na którym roku jesteśmy;1;2;3;4;2
